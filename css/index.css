@@ -1,0 +1,159 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+.an{
+    padding-top: 30px;
+    
+}
+.an a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+.a{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    
+    padding: 60px
+}
+.i{
+    width: 30%;
+    
+}
+.i img{
+
+    width: 100%;
+}
+.b{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+
+    padding: 60px
+}
+.hp1{
+    flex-wrap: wrap;
+    margin-right: 20px;
+    
+
+}
+.button1{
+    background-color: rgba(77, 2, 148, 0.863);
+    color: rgb(241, 241, 241);
+    padding: 10px 40px;
+
+}
+.c{
+    text-align: center; 
+}
+.d{
+    text-align: center;
+    padding: 10px 200px;
+}
+.img{
+    padding: 0px 100px;
+}
+ .i2 img{
+    width: 24.5%;
+}
+.e{
+    background-color: black;
+    color: white;
+}
+.hp2{
+    text-align: center;
+    padding: 10px 20px;
+}
+.hp4{
+    text-align: center;
+    padding: 10px 20px;
+}
+.hp4 p{
+    text-align: justify;
+}
+.f{
+    background-image: url("../images/closeupbrightbluewater-61f0f88d81004729a7385484bcd38998.jpg");
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+.img1{
+    text-align: center;
+}
+.img1 img{
+    width: 10%;
+}
+.t{
+    background-image: url("../image/sea1.jpg");
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+.i1 img{
+    width: 300px;
+}
+
+.hp3{
+    text-align: center;
+}
+.but{
+    background-color: rgba(77, 2, 148, 0.863);
+    padding: 10px 40px;
+    color: rgba(255, 255, 255, 0.863);
+    border: 1px;
+}   
+.c{
+    background-image: url("../image/IMAGE2\ \(1\)\ \(1\).jpg");
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(240, 235, 235);
+}
+.g{
+    text-align: center;
+}
+.hee{
+    background-color: black;
+    color: white;
+    padding: 40px 80px;
+    text-align: center;
+    margin: 10px 0px;
+}
+.but1{
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.89);
+    padding: 10px 40px;
+    color: white;
+}
+button:hover{
+    background-color:rgba(77, 2, 148, 0.863);
+    color: white;
+}
+.hp3 h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: 100px;
+}
+.hp3 p{
+    font-size: 25px;
+}
+.i2{
+    padding: 20px 40px 60px 40px;
+}
+.c1 p{
+    text-align: justify;
+}
